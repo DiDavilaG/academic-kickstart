@@ -9,7 +9,7 @@
 #   Latest themes (may require updating): https://sourcethemes.com/academic/themes/
 #   Browse built-in themes in `themes/academic/data/themes/`
 #   Browse user installed themes in `data/themes/`
-theme ="Rosado" in config/_default/params.toml
+theme = "rosado"
 
 # Enable users to switch between day and night mode?
 day_night = true
