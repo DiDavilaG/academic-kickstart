@@ -18,18 +18,27 @@ subtitle = ""
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
+ 
   
 [[feature]]
-  icon = "chart-line"
+  icon = "fas fa-archive"
   icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  name = "Archival Work"
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "far fa-comments"
+  icon_pack = "far"
+  name = "Interviews"
+  
+  [[feature]]
+  icon = "fas fa-globe-americas"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
-
+  name = "Languages"
+  
+  [[feature]]
+  icon = "fas fa-database"
+  icon_pack = "fas"
+  name = "MySQL"
+  
+  
 +++
