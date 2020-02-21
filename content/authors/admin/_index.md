@@ -59,11 +59,12 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/DiDavilaG
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: "https://www.dropbox.com/s/nr091dlzv6ewolw/CV%20Diana%20Davila%20Gordillo%20Febrero%202020.pdf?dl=0"
+ # icon: cv
+  # icon_pack: ai
+   # link: "https://www.dropbox.com/s/nr091dlzv6ewolw/CV%20Diana%20Davila%20Gordillo%20Febrero%202020.pdf?dl=0"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
