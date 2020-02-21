@@ -1,0 +1,18 @@
+# Theme metadata
+name = "Rosado"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#84223b"
+
+# Menu
+menu_primary = "#f7c9cc"
+menu_text = "#fff"
+menu_text_active = "rgb(39, 64, 6)"
+menu_title = "#fff"
+
+# Home sections
+home_section_odd = "#fff"
+home_section_even = "#fff"
