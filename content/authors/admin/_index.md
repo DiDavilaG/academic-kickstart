@@ -67,7 +67,7 @@ social:
    # link: "https://www.dropbox.com/s/nr091dlzv6ewolw/CV%20Diana%20Davila%20Gordillo%20Febrero%202020.pdf?dl=0"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "d.l.davila.gordillo@fsw.leidenuniv.nl"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
