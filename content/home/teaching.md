@@ -51,6 +51,7 @@ subtitle = ""
 **2019 - 2020** 
 
 Lecturer: Qualitative Research Methods (2x)
+
 **Bachelor Seminars**
 
 **2019 - 2020** 
