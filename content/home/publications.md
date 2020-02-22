@@ -54,11 +54,12 @@ Davila Gordillo D. & Ragazzi F. (2017), The Radicalisation Awareness Network: Pr
 
 **Under review**
 
-Davila Gordillo, D. & Wylie K. “Party institutionalization and leadership”. Under Review.
+Davila Gordillo, D. & Wylie K. “Party institutionalization and leadership”. 
 
 **Working Papers**
 
 Davila Gordillo, D. (2019) "Evaluating party goals and party performance. The cases of Pachakutik and Izquierda Democrática (1996-2017)". 
+
 Davila Gordillo, D. (2019) "Ethnic parties and party-voter linkages: Pachakutik’s mobilization strategies in local elections". 
 
 
