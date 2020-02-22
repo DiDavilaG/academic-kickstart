@@ -50,7 +50,11 @@ subtitle = ""
 **Book Chapters**
 
 Davila Gordillo D. & Ragazzi F. (2017), The Radicalisation Awareness Network: Producing the EU counter-radicalisation discourse In: Carrera S., Mitsilegas V. (Eds.) <em>Constitutionalising the Security Union Effectiveness, Rule of Law and Rights in Countering Terrorism and Crime.</em> Brussels: Centre for European Policy Studies (CEPS). 54-63.
-[PDF](http://arxiv.org/pdf/1512.04133v1)
+links:
+- icon: "far fa-file-pdf"
+  icon-pack: far
+  name: PDF
+  url: http://arxiv.org/pdf/1512.04133v1
 
 **Under review**
 
