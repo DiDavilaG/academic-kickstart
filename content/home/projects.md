@@ -48,6 +48,8 @@ subtitle = ""
  css_class = ""
 +++
 **Data Projects**
-Country coordinator with [Sebastian Vallejo Vera](https://www.svallejovera.com/) data on Ecuadorian political parties for [The Political Party Database](https://www.politicalpartydb.org/countries/ecuador/)
 
+Data on Ecuadorian political parties for [The Political Party Database](https://www.politicalpartydb.org/countries/ecuador/)
+
+country coordinator with [Sebastian Vallejo Vera](https://www.svallejovera.com/) 
 
