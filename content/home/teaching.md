@@ -6,7 +6,7 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 60  # Order that this section will appear.
 
 title = "Teaching"
 subtitle = ""
@@ -60,15 +60,13 @@ Lecturer: [Party Politics in Latin America](https://studiegids.universiteitleide
 **2018 - 2019**
 
 Lecturer (3x) [Academic Skills: Introduction to Political Science](https://studiegids.universiteitleiden.nl/en/courses/78853/introduction-to-political-science) <br>
-[**Student Evaluations**](https://www.dropbox.com/s/yxci2quspg1r1dw/Evaluations%202018-2019.pdf?dl=0)
+
 
 **2017-2018**
 
 Lecturer (4x) Academic Skills: Critical Review <br>
-[**Student Evaluations**](https://www.dropbox.com/s/gxif91l60e3yjy5/Work%20Group%20Evaluation%20DDG%20Skills%204%20nc.pdf?dl=0)
 
 Lecturer (3x) Academic Skills: Book Review <br>
-[**Student Evaluations**](https://www.dropbox.com/s/k80irczuj0a2yxr/Work%20Group%20Evaluation%20DDG%20Skills%203%20nc.pdf?dl=0)
 
 **2016-2017**
 
