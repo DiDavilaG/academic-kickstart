@@ -38,7 +38,7 @@ subtitle = ""
   [[feature]]
   icon = "fas fa-database"
   icon_pack = "fas"
-  name = "MySQL"
+  name = "SQL"
   
   
 +++
