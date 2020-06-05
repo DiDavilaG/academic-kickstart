@@ -32,7 +32,7 @@ education:
   courses:
   - course: PhD  Candidate in Political Science
     institution: Leiden University
-    year: 2016
+    year: 2016 - 
   - course: MSc in Political Science (cum laude)
     institution: Leiden University
     year: 2015
