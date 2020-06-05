@@ -22,11 +22,10 @@ bio:
 
 interests:
 - Latin American party politics 
-- Political parties' performance and success
+- Political parties' survival
 - Party-voter linkages
-- Ethnic parties
-- Ethnic identities
-- Counter-radicalisation policies in the European Union
+- Electoral behaviour
+- Ethnic parties / Ethnic identities
 - Human Rights and the Inter-American System
 
 education:
