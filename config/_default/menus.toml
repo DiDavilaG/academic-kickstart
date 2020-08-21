@@ -43,5 +43,5 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  [[main]]
     name = "CV"
-    url = "https://www.dropbox.com/s/nr091dlzv6ewolw/CV%20Diana%20Davila%20Gordillo%20Febrero%202020.pdf?dl=0"
+    url = "https://www.dropbox.com/s/ockvc5ljuk6vofw/Diana%20D%C3%A1vila%20Gordillo%20CV%20August%202020.pdf?dl=0"
     weight = 70
