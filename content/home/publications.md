@@ -49,20 +49,20 @@ subtitle = ""
 +++
 **Book Chapters**
 
-Davila Gordillo D. & Ragazzi F. (2017), The Radicalisation Awareness Network: Producing the EU counter-radicalisation discourse In: Carrera S., Mitsilegas V. (Eds.) <em>Constitutionalising the Security Union Effectiveness, Rule of Law and Rights in Countering Terrorism and Crime.</em> Brussels: Centre for European Policy Studies (CEPS). 54-63.
+Davila Gordillo, D. & Wylie K. (forthcoming). “Party institutionalization and leadership in Latin America”. In: Oxford Encyclopedia of Latin American Politics. 
+
+Davila Gordillo D. & Ragazzi F. (2017). The Radicalisation Awareness Network: Producing the EU counter-radicalisation discourse In: Carrera S., Mitsilegas V. (Eds.) <em>Constitutionalising the Security Union Effectiveness, Rule of Law and Rights in Countering Terrorism and Crime.</em> Brussels: Centre for European Policy Studies (CEPS). 54-63.
 [PDF](http://arxiv.org/pdf/1512.04133v1)
 
-**Under review**
 
-Davila Gordillo, D. & Wylie K. “Party institutionalization and leadership”. 
 
 **Working Papers**
 
-Davila Gordillo, D. (2019) "Evaluating party goals and party performance. The cases of Pachakutik and Izquierda Democrática (1996-2017)". 
+Davila Gordillo, D. (2019). "Evaluating party goals and party performance. The cases of Pachakutik and Izquierda Democrática (1996-2017)". 
 
-Davila Gordillo, D. (2019) "Ethnic parties and party-voter linkages: Pachakutik’s mobilization strategies in local elections". 
+Davila Gordillo, D. (2019). "Ethnic parties and party-voter linkages: Pachakutik’s mobilization strategies in local elections". 
 
-Davila Gordillo, D. (2017) "Losing Members and Winning Votes? Pachakutik and Indigenous Representation in Ecuador". 
+Davila Gordillo, D. (2017). "Losing Members and Winning Votes? Pachakutik and Indigenous Representation in Ecuador". 
 
 
 
