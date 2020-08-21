@@ -51,5 +51,5 @@ subtitle = ""
 
 Data on Ecuadorian political parties for [The Political Party Database](https://www.politicalpartydb.org/countries/ecuador/) country coordinator with [Sebastian Vallejo Vera](https://www.svallejovera.com/) 
 
-Ecuandorian Electoral Data (forthcoming)
+Ecuadorian Electoral Data (forthcoming)
 
