@@ -29,10 +29,15 @@
   url = "#teaching"
   weight = 33
   
+   [[main]]
+  name = "PhD Dissertation - Online Appendix"
+  url = "#Dissertation"
+  weight = 40
+  
   [[main]]
   name = "Diplomacy"
   url = "#diplomatic"
-  weight = 40
+  weight = 45
   
 #[[main]]
  # name = "Contact"
