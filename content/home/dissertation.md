@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
-title = "Dissertation"
-subtitle = "Online Appendix"
+title = "Ph.D. Dissertation"
+subtitle = ""
 
 
 [design]
@@ -47,7 +47,7 @@ subtitle = "Online Appendix"
  # CSS class.
  css_class = ""
 +++
-**Ph.D. Dissertation Online Appendix**
+**Online Appendix**
 
 Chapter 4 appendix [ecological inference estimations](https://surfdrive.surf.nl/files/index.php/s/T9Td9tZhzQPTb03) 
 
