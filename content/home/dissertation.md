@@ -53,3 +53,5 @@ Chapter 4 appendix [ecological inference estimations](https://surfdrive.surf.nl/
 
 Chapter 5 appendix [Pachakutik's appeals data and chronology of events](https://surfdrive.surf.nl/files/index.php/s/UOWVmFCeqybS4GS)
 
+Chapter 6 appendix [Pachakutik at the legislature in 2002 and comparison with Izquierda Democratica] (https://surfdrive.surf.nl/files/index.php/s/Gsty5wPOly58sLG)
+
