@@ -48,11 +48,19 @@ subtitle = ""
 +++
 **Master Seminars**
 
+**2020 - 2021**
+
+Lecturer: Qualitative Research Methods (4x)
+
 **2019 - 2020** 
 
 Lecturer: Qualitative Research Methods (2x)
 
 **Bachelor Seminars**
+
+**2020 - 2021**
+
+Lecturer: Bachelor Project Seminar: Democracy in Latin America
 
 **2019 - 2020** 
 
