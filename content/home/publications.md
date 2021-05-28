@@ -49,7 +49,7 @@ subtitle = ""
 +++
 **Book Chapters**
 
-Davila Gordillo, D. & Wylie K. (forthcoming). “Party institutionalization and leadership in Latin America”. In: Oxford Encyclopedia of Latin American Politics. 
+Davila Gordillo, D., & Wylie, K., (2021). Party leadership and institutionalization in Latin America. In Oxford Research Encyclopedia of Politics. Oxford University Press. doi: https://doi.org/10.1093/acrefore/9780190228637.013.1667
 
 Davila Gordillo D. & Ragazzi F. (2017). The Radicalisation Awareness Network: Producing the EU counter-radicalisation discourse In: Carrera S., Mitsilegas V. (Eds.) <em>Constitutionalising the Security Union Effectiveness, Rule of Law and Rights in Countering Terrorism and Crime.</em> Brussels: Centre for European Policy Studies (CEPS). 54-63.
 [PDF](http://arxiv.org/pdf/1512.04133v1)
@@ -58,11 +58,24 @@ Davila Gordillo D. & Ragazzi F. (2017). The Radicalisation Awareness Network: Pr
 
 **Working Papers**
 
-Davila Gordillo, D. (2019). "Evaluating party goals and party performance. The cases of Pachakutik and Izquierda Democrática (1996-2017)". 
+The surprising new votes for Pachakutik in 2021: the indigenous voters, and segmented mobilization strategies. [Paper manuscript](https://www.ucis.pitt.edu/clas/content/charlemos) 
 
-Davila Gordillo, D. (2019). "Ethnic parties and party-voter linkages: Pachakutik’s mobilization strategies in local elections". 
+Who votes for Pachakutik? Ethnic voting in Ecuador. Paper manuscript.
 
-Davila Gordillo, D. (2017). "Losing Members and Winning Votes? Pachakutik and Indigenous Representation in Ecuador". 
+The Ecuadorian paradox of recognition: the fragmentation of the indígena category. Paper manuscript with Frank de Zwart.
 
+“Believe in Me: Parties’ Strategies During a Pandemic”. Paper manuscript with Angélica Abad, Raúl Aldaz, and Sebastián Vallejo. Abstract accepted to the Special Issue “The Politics of the COVID-19 Pandemic in Latin America” in the Journal of Politics in Latin America due date May 30, 2021.
+
+Polarization and Party-System Populism: the Case of Ecuador. Paper manuscript with Angélica Abad, Raúl Aldaz, and Sebastián Vallejo.
+
+“Covert racism in Ecuador”. Paper manuscript with Sebastián Vallejo and Joan Timoneda
+
+Women voting for women? Ecuadorian women voting preferences. Paper manuscript with Sebastián Vallejo
+
+**Non-peer reviewed publications**
+
+Davila Gordillo, D. (2021). [Elecciones presidenciales en el Ecuador: flashback al pasado y un futuro incierto](https://www.vozyvoto.com.mx/Leer/314Flashback-al-pasado-y-futuro-incierto) . In Voz y Voto. 
+
+•	Abad, A., Aldaz, R., Davila Gordillo, D., Vallejo, S., (2021). [Ecuador: cómo diferenciarse cuando compites con 16 candidatos](https://agendapublica.es/ecuador-como-diferenciarse-cuando-compites-con-16-candidatos/) . Agenda Pública 
 
 
