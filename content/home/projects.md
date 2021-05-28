@@ -51,5 +51,7 @@ subtitle = ""
 
 Data on Ecuadorian political parties for [The Political Party Database](https://www.politicalpartydb.org/countries/ecuador/) country coordinator with [Sebastian Vallejo Vera](https://www.svallejovera.com/) 
 
-Ecuadorian Electoral Data (forthcoming)
+Ecuadorian Electoral Data: [2021 Election](https://github.com/vallejo086/Elecciones_2021_EC) with [Sebastian Vallejo Vera](https://www.svallejovera.com/) 
+
+Geo-Party-Links Ecuador 2021 with Angelica Abad, Raul Aldaz, and with [Sebastian Vallejo Vera](https://www.svallejovera.com/). Data on mobilization strategies used by parties and candidadres during the 2021 national election in Ecuador (forthcoming). 
 
