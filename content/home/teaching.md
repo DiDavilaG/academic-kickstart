@@ -50,11 +50,11 @@ subtitle = ""
 
 **2020 - 2021**
 
-Lecturer: Qualitative Research Methods (4x)
+Lecturer: Qualitative Research Methods (x4)
 
 **2019 - 2020** 
 
-Lecturer: Qualitative Research Methods (2x)
+Lecturer: Qualitative Research Methods (x2)
 
 **Bachelor Seminars**
 
@@ -68,17 +68,17 @@ Lecturer: [Party Politics in Latin America](https://studiegids.universiteitleide
 
 **2018 - 2019**
 
-Lecturer (3x) [Academic Skills: Introduction to Political Science](https://studiegids.universiteitleiden.nl/en/courses/78853/introduction-to-political-science) <br>
+Lecturer (x3) [Academic Skills: Introduction to Political Science](https://studiegids.universiteitleiden.nl/en/courses/78853/introduction-to-political-science) <br>
 
 
 **2017-2018**
 
-Lecturer (4x) Academic Skills: Critical Review <br>
+Lecturer (x4) Academic Skills: Critical Review <br>
 
-Lecturer (3x) Academic Skills: Book Review <br>
+Lecturer (x3) Academic Skills: Book Review <br>
 
 **2016-2017**
 
-Lecturer (3x): Workgroups of International Security 
+Lecturer (x3): Workgroups of International Security 
 
-Lecturer (3x): Workgroups of Comparative Analysis of Political Systems
+Lecturer (x3): Workgroups of Comparative Analysis of Political Systems
