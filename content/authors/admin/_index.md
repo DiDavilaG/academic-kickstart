@@ -21,18 +21,18 @@ organizations:
 bio: 
 
 interests:
-- Latin American party politics 
 - Political parties' survival
-- Party-voter linkages
+- Political parties' mobilization strategies
 - Electoral behaviour
 - Ethnic parties / Ethnic identities
 - Human Rights and the Inter-American System
+- Qualitative methods
 
 education:
   courses:
   - course: PhD  Candidate in Political Science
     institution: Leiden University
-    year: 2016 - 
+    year: 2021
   - course: MSc in Political Science (cum laude)
     institution: Leiden University
     year: 2015
@@ -63,7 +63,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  # icon: cv
   # icon_pack: ai
-   # link: "https://www.dropbox.com/s/nr091dlzv6ewolw/CV%20Diana%20Davila%20Gordillo%20Febrero%202020.pdf?dl=0"
+   # link: "https://www.dropbox.com/s/9gz4dmtjcs6oqm8/Diana%20D%C3%A1vila%20Gordillo%20CV%20May%202021.pdf?dl=0"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "d.l.davila.gordillo@fsw.leidenuniv.nl"
@@ -74,6 +74,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a PhD candidate in the Institute of Political Science at Leiden University. My research focuses on political parties in Latin America; party performance evaluations; party-voter linkages (mobilization strategies); and the mechanisms that foster the change of ethnic identities. My PhD dissertation looks into the case of the Ecuadorian ethnic party Pachakutik. I research the party's performance, the party's mobilization strategies and how the party segments them (following a spatial perspective), and the party’s role at advancing recognition policies for the indigenous population that have fostered the groups’ division. My work is entirely bilingual: I research, write, and teach in both english and spanish. 
+I am a PhD candidate in the Institute of Political Science at Leiden University. My doctoral defence is scheduled for July 1, 2021.My research focuses on political parties’ survival, parties’ mobilizations strategies, and the mechanisms that foster changes of ethnic identities. My dissertation, “Surviving against all odds: Pachakutik’s electoral support, mobilisation strategies, and goal achievement between 1996 and 2019” proposes a theory of party survival that focuses on parties with low levels of electoral support and scarce resources. To illustrate my argument, I use the case of Pachakutik, an indigenous party from Ecuador. I completed over 11 months of fieldwork in Ecuador, where I conducted elite interviews and archival work. My work is entirely bilingual: I research, write, and teach in english and spanish. 
 
 Before joining Leiden University, I served at the Ecuadorian Mission to the Organization of American States (OAS) in Washington D.C. as Second Secretary Alternate Representative of Ecuador. I joined the Permanent Mission in July 2012. My work there concentrated on the negotiation of Inter-American Human rights conventions. 
