@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: Lecturer
 
 # Organizations/Affiliations
 organizations:
@@ -25,12 +25,11 @@ interests:
 - Political parties' mobilization strategies
 - Electoral behaviour
 - Ethnic parties / Ethnic identities
-- Human Rights and the Inter-American System
 - Qualitative methods
 
 education:
   courses:
-  - course: PhD  Candidate in Political Science
+  - course: PhD in Political Science
     institution: Leiden University
     year: 2021
   - course: MSc in Political Science (cum laude)
