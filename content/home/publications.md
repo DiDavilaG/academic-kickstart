@@ -56,7 +56,7 @@ Davila Gordillo D. & Ragazzi F. (2017). The Radicalisation Awareness Network: Pr
 
 **Under review**
 
-“Believe in Me: Parties’ Strategies During a Pandemic”. Paper manuscript with Angélica Abad, Raúl Aldaz, and Sebastián Vallejo. 
+“Believe in Me: Parties’ Strategies During a Pandemic”. Paper manuscript with Angélica Abad, Raúl Aldaz, and Sebastián Vallejo. (R&R)
 
 **Working Papers**
 
