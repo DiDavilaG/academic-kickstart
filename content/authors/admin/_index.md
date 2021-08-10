@@ -62,7 +62,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  # icon: cv
   # icon_pack: ai
-   # link: "https://www.dropbox.com/s/9gz4dmtjcs6oqm8/Diana%20D%C3%A1vila%20Gordillo%20CV%20May%202021.pdf?dl=0"
+    link: "https://www.dropbox.com/s/ebcpqqoyeat6fdu/CV%20DDG.pdf?dl=0"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "d.l.davila.gordillo@fsw.leidenuniv.nl"
