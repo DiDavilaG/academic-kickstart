@@ -47,6 +47,11 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+**Research Projects**
+
+Principal investigator, project: “Attitudes towards Venezuelan migrants among the Ecuadorian youth: Challenging the criminalization of immigrants”. Project funded by the [EGAP LATAM Regional Hub Small Grants Fund] (https://egap.org/project/attitudes-towards-venezuelan-migrants-among-the-ecuadorian-youth-challenging-the-criminalization-of-immigrants/)
+
 **Data Projects**
 
 Data on Ecuadorian political parties for [The Political Party Database](https://www.politicalpartydb.org/countries/ecuador/) country coordinator with [Sebastian Vallejo Vera](https://www.svallejovera.com/) 
