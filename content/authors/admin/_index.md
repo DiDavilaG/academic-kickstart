@@ -62,7 +62,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  # icon: cv
   # icon_pack: ai
-   # link: ""
+   # link: "https://www.dropbox.com/s/5clu64elxzaa0v3/CV_DDG7.22.pdf?dl=0"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "ddavilagordillo@lakeforest.edu"
