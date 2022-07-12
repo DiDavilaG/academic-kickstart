@@ -50,7 +50,7 @@ subtitle = ""
 
 **Research Projects**
 
-Principal investigator, project: “Attitudes towards Venezuelan migrants among the Ecuadorian youth: Challenging the criminalization of immigrants”. Project funded by the [EGAP LATAM Regional Hub Small Grants Fund] (https://egap.org/project/attitudes-towards-venezuelan-migrants-among-the-ecuadorian-youth-challenging-the-criminalization-of-immigrants/)
+Principal investigator, project: “Attitudes towards Venezuelan migrants among the Ecuadorian youth: Challenging the criminalization of immigrants”. Project funded by the [EGAP LATAM Regional Hub Small Grants Fund](https://egap.org/project/attitudes-towards-venezuelan-migrants-among-the-ecuadorian-youth-challenging-the-criminalization-of-immigrants/)
 
 **Data Projects**
 
