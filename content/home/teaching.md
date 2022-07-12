@@ -48,6 +48,9 @@ subtitle = ""
 +++
 **Master Seminars**
 
+**2021 - 2022**
+Lecturer: Qualitative Research Methods (x2)
+
 **2020 - 2021**
 
 Lecturer: Qualitative Research Methods (x4)
@@ -57,6 +60,10 @@ Lecturer: Qualitative Research Methods (x4)
 Lecturer: Qualitative Research Methods (x2)
 
 **Bachelor Seminars**
+
+**2021 - 2022**
+Lecturer: Bachelor Project Seminar: Democracy in Latin America
+Lecturer: Introduction to Comparative Politics (x2)
 
 **2020 - 2021**
 
