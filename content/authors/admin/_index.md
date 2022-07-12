@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Lecturer
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Leiden University
-  url: "https://www.universiteitleiden.nl/en/staffmembers/diana-davila-gordillo#tab-1"
+- name: Lake Forest College 
+  url: "https://www.lakeforest.edu/academics/majors-and-minors/politics/faculty"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -47,7 +47,7 @@ social:
 
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:d.l.davila.gordillo@fsw.leidenuniv.nl'
+  link: 'mailto:ddavilagordillo@lakforest.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/DiDavilaG
@@ -65,7 +65,7 @@ social:
    # link: "https://www.dropbox.com/s/ebcpqqoyeat6fdu/CV%20DDG.pdf?dl=0"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "d.l.davila.gordillo@fsw.leidenuniv.nl"
+email: "ddavilagordillo@lakeforest.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -73,6 +73,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a Lecturer in the Institute of Political Science at Leiden University. I received a PhD in Political Science from the same Institute on July 1, 2021. My research focuses on political parties’ survival, parties’ mobilization strategies, and the mechanisms that foster changes in ethnic identities. My dissertation, “Surviving against all odds: Pachakutik’s electoral support, mobilization strategies, and goal achievement between 1996 and 2019”, proposes a theory of party survival that focuses on parties with low levels of electoral support and scarce resources. To illustrate my argument, I use the case of Pachakutik, an indigenous party from Ecuador. I completed over 11 months of fieldwork in Ecuador, where I conducted elite interviews and archival work. I specialize in teaching qualitative methods at the master level and small seminars on political parties and democracy with a regional focus in Latin America at the bachelor level. My work is entirely bilingual: I research, write, and teach in English and Spanish. 
+I am an (incoming) Assistant Professor of Politics at Lake Forest College. Before joining Lake Forest college I was a Lecturer in the Institute of Political Science at Leiden University. I received a PhD in Political Science from the same Institute on July 1, 2021. My research focuses on political parties’ survival, parties’ mobilization strategies, and the mechanisms that foster changes in ethnic identities. My dissertation, “Surviving against all odds: Pachakutik’s electoral support, mobilization strategies, and goal achievement between 1996 and 2019”, proposes a theory of party survival that focuses on parties with low levels of electoral support and scarce resources. To illustrate my argument, I use the case of Pachakutik, an indigenous party from Ecuador. I completed over 11 months of fieldwork in Ecuador, where I conducted elite interviews and archival work. I specialize in teaching qualitative methods at the master level and small seminars on political parties and democracy with a regional focus in Latin America at the bachelor level. My work is entirely bilingual: I research, write, and teach in English and Spanish. 
 
 Before joining Leiden University, I served at the Ecuadorian Mission to the Organization of American States (OAS) in Washington D.C. as Second Secretary Alternate Representative of Ecuador. I joined the Permanent Mission in July 2012. My work there concentrated on the negotiation of Inter-American Human rights conventions.
