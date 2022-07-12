@@ -50,13 +50,13 @@ subtitle = ""
 
 **Peer reviewed articles**
 
-Abad, A., Aldaz, R., Davila Gordillo, D., Vallejo Vera, S. (2022). “Un deja-vu no esperado: la política ecuatoriana en 2021.” Revista De Ciencia Política. [doi] (http://dx.doi.org/10.4067/s0718-090x2022005000112) 
+Abad, A., Aldaz, R., Davila Gordillo, D., Vallejo Vera, S. (2022). “Un deja-vu no esperado: la política ecuatoriana en 2021.” Revista De Ciencia Política. [doi](http://dx.doi.org/10.4067/s0718-090x2022005000112) 
 
-Abad, A., Aldaz, R., Davila Gordillo, D., Vallejo Vera, S. (2021). “Believe in me: Parties’ Strategies During a Pandemic.” Journal of Politics in Latin America 13(3), 419-441. [doi] (https://doi.org/10.1177/1866802X211058742) 
+Abad, A., Aldaz, R., Davila Gordillo, D., Vallejo Vera, S. (2021). “Believe in me: Parties’ Strategies During a Pandemic.” Journal of Politics in Latin America 13(3), 419-441. [doi](https://doi.org/10.1177/1866802X211058742) 
 
 **Book Chapters**
 
-Davila Gordillo, D., & Wylie, K., (2021). Party leadership and institutionalization in Latin America. In Oxford Research Encyclopedia of Politics. Oxford University Press. doi: https://doi.org/10.1093/acrefore/9780190228637.013.1667
+Davila Gordillo, D., & Wylie, K., (2021). Party leadership and institutionalization in Latin America. In Oxford Research Encyclopedia of Politics. Oxford University Press. [doi](https://doi.org/10.1093/acrefore/9780190228637.013.1667)
 
 Davila Gordillo D. & Ragazzi F. (2017). The Radicalisation Awareness Network: Producing the EU counter-radicalisation discourse In: Carrera S., Mitsilegas V. (Eds.) <em>Constitutionalising the Security Union Effectiveness, Rule of Law and Rights in Countering Terrorism and Crime.</em> Brussels: Centre for European Policy Studies (CEPS). 54-63.
 [PDF](http://arxiv.org/pdf/1512.04133v1)
