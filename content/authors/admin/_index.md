@@ -47,7 +47,7 @@ social:
 
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ddavilagordillo@lakforest.edu'
+  link: 'mailto:ddavilagordillo@lakeforest.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/DiDavilaG
@@ -62,7 +62,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  # icon: cv
   # icon_pack: ai
-   # link: "https://www.dropbox.com/s/ebcpqqoyeat6fdu/CV%20DDG.pdf?dl=0"
+   # link: ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "ddavilagordillo@lakeforest.edu"
