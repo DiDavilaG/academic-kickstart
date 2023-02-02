@@ -15,7 +15,7 @@ role: Assistant Professor
 # Organizations/Affiliations
 organizations:
 - name: Lake Forest College 
-  url: "https://www.lakeforest.edu/academics/majors-and-minors/politics/faculty"
+  url: "https://www.lakeforest.edu/academics/faculty/ddavilagordillo"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
