@@ -46,6 +46,17 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+**Lake Forest College**
+**2023-2024**
+Introduction to Comparative Politics
+Women, Institutions, and Politics
+Latin American Politics 
+
+**2022-2023**
+Introduction to Comparative Politics (x3)
+Women, Institutions, and Politics
+Latin American Politics 
+**Leiden University**
 **Master Seminars**
 
 **2021 - 2022**
