@@ -75,9 +75,7 @@ The Ecuadorian paradox of recognition: the fragmentation of the indígena catego
 
 Polarization and Party-System Populism: the Case of Ecuador. Paper manuscript with Angélica Abad, Raúl Aldaz, and Sebastián Vallejo.
 
-“Covert racism in Ecuador”. Paper manuscript with Sebastián Vallejo and Joan Timoneda
-
-Women voting for women? Ecuadorian women voting preferences. Paper manuscript with Sebastián Vallejo
+The missing women of the electoral process. Paper manuscript with Sebastián Vallejo
 
 **Non-peer reviewed publications**
 
