@@ -23,7 +23,7 @@ bio:
 interests:
 - Political parties' survival
 - Political parties' mobilization strategies
-- Electoral behaviour
+- Women's representation
 - Ethnic parties / Ethnic identities
 - Qualitative methods
 
@@ -73,10 +73,9 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a researcher in comparative politics working on political institutions and representation with Latin America as my regional focus. My research and teaching lie at the intersection of representation, identity, ethnicity, and institutions. I deploy a broad set of methodological tools in my work, chiefly qualitative methods (e.g., interviews, participant observation, and discourse analysis), which I combine with various other methodologies, including natural language processing, network analysis, and experimental methods.
+I am an Assistant Professor of Politics at Lake Forest College. Before joining the college, I was a lecturer at the Institute of Political Science at Leiden University, where I also received my Ph.D. I am a researcher in comparative politics working on political institutions and representation with Latin America as my regional focus. My research and teaching lie at the intersection of representation, identity, ethnicity, and institutions. I deploy a broad set of methodological tools in my work, chiefly qualitative methods (e.g., interviews, participant observation, and discourse analysis), which I combine with various other methodologies, including natural language processing, network analysis, and experimental methods.
 
-A common theme connecting my multiple research projects is how diverse (intersecting) identities affect representation and democracy. My research interests lie in the supply and demand sides of representation and their effects on the construction of democratic citizenship. My research focusing on the demand side of representation addresses group identity construction. I study this at the individual level as well as at the group level. My work explores the construction, politicization, and change of identities at the individual level. I also study the effects of these changes on the organization of groups and their representation (e.g., the formation of political parties and social movements as tools of representation). I primarily advance the group-level perspective by examining the relationship between migration and democratic citizenship. My EGAP-funded project focuses on high-school students in Ecuador and explores how to engender empathy towards out-groups (e.g., migrants). 
-My research on the supply side of representation addresses primarily the same theme but from an elite–party organization perspective. I study how political parties try to engage specific groups of voters while at the same time affecting their identity construction. Taking as a starting point the existence of intersecting identities (for instance, gender, ethnicity, and age), my work explores the choices parties make to engage voters holding multiple identities and how parties deploy these choices, i.e., the appeals they use. 
+I study party organizations: a) their survival, b) their linkages to voters, and c) the determinants of candidate selection (gender perspective). I also study group identity construction (at the individual and group level) and how these identities affect party formation and persistence, the linkages between parties and voters, and inter-group relations. 
 
 I specialize in teaching qualitative methods at the graduate level, introductory and mid-level seminars on Introduction to Comparative Politics, Women's Representation, and Latin American Politics, and advanced-level seminars on political parties and democracy with a regional focus in Latin America. My work is entirely bilingual: I research, write, and teach in English and Spanish. 
 
