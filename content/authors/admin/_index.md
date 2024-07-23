@@ -47,7 +47,7 @@ social:
 
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:ddavilagordillo@lakeforest.edu'
+  link: 'mailto:d.l.davila.gordillo@fsw.leidenuniv.nl'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/DiDavilaG
