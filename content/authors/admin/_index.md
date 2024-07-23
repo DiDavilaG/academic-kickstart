@@ -62,7 +62,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
  # icon: cv
   # icon_pack: ai
-   # link: "https://www.dropbox.com/s/5clu64elxzaa0v3/CV_DDG7.22.pdf?dl=0"
+   # link: "https://leidenuniv1-my.sharepoint.com/:b:/g/personal/davilagordillodl_vuw_leidenuniv_nl/Eaj_VMYRWcBDnh4XvSWE4YABSxK4Pg3iWi0Jocc3iG5T3w?e=hCpEBK"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "d.l.davila.gordillo@fsw.leidenuniv.nl"
