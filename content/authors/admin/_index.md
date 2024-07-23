@@ -15,7 +15,7 @@ role: Assistant Professor of Comparative Politics
 # Organizations/Affiliations
 organizations:
 - name: Leiden University 
-  url: "(https://www.universiteitleiden.nl/en/staffmembers/diana-davila-gordillo#tab-1)"
+  url: "https://www.universiteitleiden.nl/en/staffmembers/diana-davila-gordillo#tab-1"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
