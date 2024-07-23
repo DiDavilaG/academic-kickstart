@@ -65,6 +65,8 @@ Davila Gordillo D. & Ragazzi F. (2017). The Radicalisation Awareness Network: Pr
 
 Semi-supervised machine-learning models to detect covert and overt racism in large corpora (with Sebastián Vallejo Vera and Joan C. Timoneda)
 
+Gender Quotas, Party Strategy, and Women Candidates (with Sebastian Vallejo Vera)
+
 **Working Papers**
 
 The surprising new votes for Pachakutik in 2021: the indigenous voters, and segmented mobilization strategies. [Paper manuscript](https://www.ucis.pitt.edu/clas/content/charlemos) 
@@ -75,7 +77,7 @@ The Ecuadorian paradox of recognition: the fragmentation of the indígena catego
 
 Polarization and Party-System Populism: the Case of Ecuador. Paper manuscript with Angélica Abad, Raúl Aldaz, and Sebastián Vallejo.
 
-The missing women of the electoral process. Paper manuscript with Sebastián Vallejo
+
 
 **Non-peer reviewed publications**
 
